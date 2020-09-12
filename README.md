@@ -1,2 +1,2 @@
 # NAMD_Wishlist
-NAMD Wishlist
+This is a NAMD wishlist (mainly for myself)
